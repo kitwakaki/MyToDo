@@ -1,0 +1,6 @@
+blank_issue_enabled: true
+contact:
+    - name: Add new ToDo
+      about: made by config.yml
+      #edit {username} and {repo} for your enviroment
+      url: https://github.com/kitwakaki/MyToDo/issues/new?template=custom.md&projects=kitwakaki%2FMyToDo%2F1&labels=ToDo
